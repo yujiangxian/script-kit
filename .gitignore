@@ -32,3 +32,6 @@ env/
 dist/
 build/
 *.test
+
+# Git 相关
+*.orig
